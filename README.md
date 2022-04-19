@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Masab Bin Zia
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web
+     Learned HTML5, CSS, BootStrap and Javascript.
 - 💞️ I’m looking to collaborate on web based project
 - 📫 How to reach me ...
 - masabmbz5@gmail.com
