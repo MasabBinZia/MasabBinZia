@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masab Bin Zia
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ReactJs, NodeJs, Tailwind and Sql Database.
+- 🌱 I’m currently working on ReactJs.
 - Learned HTML5, CSS, BootStrap and Javascript.
 - Also Learned C# With Oop and Asp.net with Mvc and Entity Framework.
 - 💞️ I’m looking to collaborate on web based project.
