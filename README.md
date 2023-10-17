@@ -43,17 +43,21 @@
 - 🤝 I’m looking for help with Web 2.0 and Web 3.0 Development
 - 💬 Ask me about Reactjs, HTML, CSS, and Javascript
 - 📫 How to reach me: masabmbz5@gmail.com
-
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasabBinZia&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasabBinZia&theme=midnight-purple&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasabBinZia&theme=midnight-purple&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MasabBinZia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MasabBinZia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasabBinZia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MasabBinZia&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MasabBinZia&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MasabBinZia&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=MasabBinZia&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MasabBinZia&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
