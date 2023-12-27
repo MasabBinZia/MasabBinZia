@@ -38,10 +38,10 @@
 </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning Typescript, Next.js, Web3.0, and Back-End Development
-- 👯 I’m looking to collaborate on web-based projects
-- 🤝 I’m looking for help with Web 2.0 and Web 3.0 Development
-- 💬 Ask me about Reactjs, HTML, CSS, and Javascript
+- 🌱 I’m currently learning DevOps and AI.
+- 👯 I’m looking to collaborate on web-based projects.
+- 🤝 I’m looking for help with Web 2.0 and Web 3.0 Development.
+- 💬 Ask me about Reactjs, Nextjs, TailwindCss, TypeScript, HTML, CSS, and Javascript.
 - 📫 How to reach me: masabmbz5@gmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MasabBinZia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
