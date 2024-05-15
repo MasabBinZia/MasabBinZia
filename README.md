@@ -34,7 +34,7 @@
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,vscode,python,react,next,mysql,bootstrap,nodejs,git,figma,cs,redux,sass,tailwindcss,materialui" alt="TechStack"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,vscode,python,react,next,mysql,bootstrap,nodejs,git,figma,cs,redux,sass,tailwindcss,materialui,bun,aws,graphql,discord,docker,npm,notion,linux,vercel,windows,postman,prisma" alt="TechStack"/>
 </p>
 
 # 💫 About Me:
