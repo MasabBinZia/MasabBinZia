@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/endpoint?style=plastic&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26411%26project%3D%26in=604800000"/>
+</p>
+
 <h1 align="center">
   Let's Connect and Have a Chat! 💬
 </h1>
