@@ -24,7 +24,7 @@ Building scalable products across mobile, web, backend & cloud
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Team Lead / Founding Engineer** with **4+ years of experience**, currently leading the technical execution of early-stage products.
+I’m a **Full-Stack Team Lead / Founding Engineer** with **5+ years of experience**, currently leading the technical execution of early-stage products.
 
 I specialize in:
 - Designing **end-to-end system architecture**
